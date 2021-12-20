@@ -1,0 +1,20 @@
+git init
+(Inicializa um repositório na pasta)
+
+git push
+(Empurra o conteúdo commitado do servidor local para o servidor remoto)
+
+Servidor local
+(Minha máquina/Máquina onde está o conteúdo a ser empurrado para o servidor remoto)
+
+Servidor remoto
+(GitHub/Nuvem)
+
+git status
+(Mostra o status do repositório, Modified, Unmodified, Staged, Commited)
+
+git pull
+(Contra-git push/ Puxa o conteúdo do Servidor Remoto para sua máquina quando conflitos ocorrem)
+
+git commit -m "Message"
+(Commita o trabalho feito e coloca uma mensagem para o Commit)
